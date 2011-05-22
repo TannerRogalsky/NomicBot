@@ -1,0 +1,22 @@
+101. All players must always abide by all the rules then in effect, in the form in which they are then in effect. The rules in the Initial Set are in effect whenever a game begins. The Initial Set consists of Rules 101-116 (locked) and 201-213 (open).
+102. Initially rules in the 100's are locked and rules in the 200's are open.
+103. A rule-change is any of the following: (1) the enactment, repeal, or amendment of an open rule; or (2) the transmutation of a locked rule into an open one or vice versa.
+104. All rule-changes proposed in the proper way shall be voted on. They will be adopted if and only if they receive the required number of votes.
+105. Every player is an eligible voter. Every eligible voter must participate in every vote on rule-changes.
+106. All proposed rule-changes shall be written down before they are voted on. If they are adopted, they shall guide play in the form in which they were voted on.
+107. No rule-change may take effect earlier than the moment of the completion of the vote that adopted it, even if its wording explicitly states otherwise. No rule-change may have retroactive application.
+108. Each proposed rule-change shall be given a number for reference. The numbers shall begin with 301, and each rule-change proposed in the proper way shall receive the next successive integer, whether or not the proposal is adopted. If a rule is repealed and reenacted, it receives the number of the proposal to reenact it. If a rule is amended or transmuted, it receives the number of the proposal to amend or transmute it.
+109. Rule-changes that transmute open rules into locked rules may be adopted if and only if the vote is unanimous among the eligible voters. Transmutation shall not be implied, but must be stated explicitly in a proposal to take effect.
+110. In a conflict between an open and a locked rule, the locked rule takes precedence and the open rule is void in its entirety. A proposal to transmute an open rule does not conflict with that open rule.
+111. If a rule-change as proposed is unclear, ambiguous, paradoxical, or destructive of play, or if it arguably consists of two or more rule-changes compounded or is an amendment that makes no difference, or if it is otherwise of questionable value, then the other players may suggest amendments or argue against the proposal before the vote. A reasonable time must be allowed for this debate.
+112. A player always has the option to forfeit the game rather than continue to play or incur a game penalty. No penalty worse than losing, in the judgment of the player to incur it, may be imposed.
+201. Players shall alternate in clockwise order, taking one whole turn apiece. Turns may not be skipped or passed, and parts of turns may not be omitted.  All players begin with zero points.
+202. One turn consists of two parts in this order: (1) proposing one rule-change and having it voted on, and (2) throwing one die once and adding the number of points on its face to one's score.
+203. A rule-change is adopted if and only if the vote is unanimous among the eligible voters. The players vote in their usual turn order.  If the rule is not amended by the end of the second complete circuit of these turns, it automatically changes to require only a simple majority.
+204. If and when rule-changes can be adopted without unanimity, the players who vote against winning proposals shall receive 7 points each.
+205. An adopted rule-change takes full effect at the moment of the completion of the vote that adopted it.
+206. When a proposed rule-change is defeated, the player who proposed it loses 7 points.
+207. Each player always has exactly one vote.
+208. The winner is the first player to achieve 77 (positive) points.
+209. If two or more open rules conflict with one another, or if two or more locked rules conflict with one another, then the rule with the lowest ordinal number takes precedence.
+210. If the rules are changed so that further play is impossible, or if the legality of a move cannot be determined with finality, or if by the Judge's best reasoning, not overruled, a move appears equally legal and illegal, then the first player unable to complete a turn is the winner. This rule takes precedence over every other rule determining the winner.
